@@ -16,6 +16,13 @@ Otherwise, you can clone this repository and install with `pip install` or `pip 
 
 Several examples can be found in the `examples` folder.
 
+### 1 - Directivity example:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leodenale/python-acoustics/master?filepath=examples/directivity.ipynb)
+
+### 2 - Signal Class example:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leodenale/Prevendo-o-Futuro-com-Prophet/master?filepath=examples/signal_class.ipynb)
+
+
 ## Tests
 
 The test suite can be run with
